@@ -70,9 +70,5 @@ public class MmustLinkedin {
                 this.data = data;
                 this.next = null;
             }
-        }
-    
-    
-    
-    
+        }  
 }
