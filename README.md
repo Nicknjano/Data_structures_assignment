@@ -1,9 +1,9 @@
 Data structures assignment.
 
-SIT/B/01-02260/2021 : NICHOLAS KAMAU NJANO
-SIK/B/01-01739/2021
-SIK/B/01-01737/2021
-SIK/B/01-01754/2021
+1. SIT/B/01-02260/2021 : NICHOLAS KAMAU NJANO
+2. SIK/B/01-01739/2021
+3. SIK/B/01-01737/2021
+4. SIK/B/01-01754/2021
 
 Q1.Write a code that creates a class called MmustLinkedin.The class should have an innerclass that supports the linked in operations.
 
